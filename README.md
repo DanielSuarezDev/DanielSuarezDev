@@ -11,6 +11,9 @@ const DanielSuarezDev = {
 ```
 <br>
 
+<p>I am a person that every day I learn something new, I love programming but I still lack it, so my motto is a developer in construction.</p>
+
+
 **Connect with me:**<br>
 
 <p align="left">
