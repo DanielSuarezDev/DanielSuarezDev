@@ -13,7 +13,7 @@ const DanielSuarezDev = {
 
 <p>I am a person that every day I learn something new, I love programming but I still lack it, so my motto is a developer in construction.</p>
 
-![Github Stats for Carlos Azaustre](https://github-readme-stats.vercel.app/api?username=DanielSuarezDev&show_icons=true&hide_border=true&title_color=0080ff&icon_color=0080ff&bg_color=a1a1a1)
+![Github Stats for Carlos Azaustre](https://github-readme-stats.vercel.app/api?username=DanielSuarezDev&show_icons=true&hide_border=true&title_color=0080ff&icon_color=0080ff&bg_color=dddddd)
 
 * Courses: https://ed.team/
 * Youtube Channel: https://www.youtube.com/channel/UC_zzfLSjrYNKrOIGK_js_AA
