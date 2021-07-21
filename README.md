@@ -5,7 +5,7 @@
 ```javascript
 const DanielSuarezDev = {
   pronouns: "he" | "him",
-  code: [React ,VBA,  HTML, CSS, JavaScript, Educator ],    
+  code: [VBA,  HTML, CSS, JavaScript, React, Node, Sql, Educator ],    
  OBJECTIVE: "learn to program and never to"
 }
 ```
