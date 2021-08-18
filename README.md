@@ -1,8 +1,10 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 <em>hi devs i am a software engineer in thirties and i love sharing with the community and teaching what i know 😊
 </em>
- <br/>
+ <br/><br/>
+ <img align="right" alt="GIF" src="https://media1.giphy.com/media/1USKMDPjuH4ovL7J5h/giphy.gif?cid=ecf05e47rdg29moi5gx31u0n62o5igh1f5qzl6ldy34mct5c&rid=giphy.gif&ct=g" />
 ## Ask me about :computer: 
+
 - **Competitive Programming**
 
 	-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height='20' width='20' > JavaScript ❤️
@@ -48,5 +50,3 @@
 <br/>
 <p>
 Visit my profile and give a ⭐️ if you like it</p>
-
-⭐️ From [rajput2107](https://github.com/rajput2107)
