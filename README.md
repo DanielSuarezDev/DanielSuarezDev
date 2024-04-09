@@ -18,10 +18,14 @@
 
 <br/><br/>
 
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielSuarezDev&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
-</p>  
+<a href="https://github.com/DanielSuarezDev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanielSuarezDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanielSuarezDev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
@@ -50,3 +54,5 @@
 <br/>
 <p>
 Visit my profile and give a ⭐️ if you like it</p>
+
+
